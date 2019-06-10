@@ -1,0 +1,136 @@
+body{
+    background-color: white;
+    font-weight: 100;
+}
+
+#header{
+    margin-top: 3%;
+}
+
+.navbar-brand{
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+
+#navcontent ul{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#navcontent ul li{
+    font-weight: 500;
+    margin-right: 6rem;
+    font-weight: 300;
+    font-size: 1.25rem;
+}
+
+#paw{
+    font-size: 2.5rem;
+}
+
+#donation{
+    margin: 0;
+    padding: 0;
+    font-weight: 100;
+}
+
+#donation2{
+    
+}
+
+#donationnav{
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#puppyspot{
+    padding: 3%;
+}
+
+#spotlight{
+    height: 250px;
+    margin-bottom: 5%;
+    
+}
+
+hr{
+    width: 75%;
+    background-color: #FCAD50;
+    margin-top: 0
+}
+
+#calendar{
+    margin-top: 2%;
+}
+
+#calendarScrollspy {
+    color: black;
+    padding: 2%;
+}
+
+#calendarList {
+    height: 395px;
+    overflow-y: scroll;
+   
+}
+
+#servicearea{
+    margin-top: 2%;
+    margin-bottom: 6%;
+}
+
+#donation2{
+    margin-top: 68px;
+    padding: 0;
+}
+
+#information{
+    background-color: #06a3d0;
+    padding: 25px;
+}
+
+#info1{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#info1 img{
+    height: 250px;
+}
+
+#info2{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#info2 img{
+    height: 250px;
+}
+
+#info3{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#info3 img{
+    height: 250px;
+}
+
+#blogbar{
+    padding: 0;
+}
+
+#fosterBody{
+    margin-top: 1rem;
+    font-weight: 100;
+}
+
+#fosterBody h1{
+    font-weight: 100;
+}
+
+#fosterBody hr{
+    width: 100%;
+    background-color: #FCAD50;
+}
